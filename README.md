@@ -4,7 +4,7 @@ To design the basic calculator we have used HTML,CSS and JavaScrpit.Where the fu
 
 # Features of this Calculator
 
-It will perform basic arithmetic operations like addition, subtraction, division, and multiplication.
-It will perform decimal operations.
-It will not display any result in case of invalid expression. For example, 5++9 will not display anything.
-Clear screen feature to clear the display screen anytime you want.
+* It will perform basic arithmetic operations like addition, subtraction, division, and multiplication.
+* It will perform decimal operations.
+* It will not display any result in case of invalid expression. For example, 5++9 will not display anything.
+* Clear screen feature to clear the display screen anytime you want.
