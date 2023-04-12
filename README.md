@@ -1,6 +1,6 @@
 # Basic-Calculator-Using-HTML-CSS-and-JavaScript
 
-To design the basic calculator we have used HTML,CSS and JavaScrpit.Where the function of HTML is to form the basic structure of the calculator .CSS is used to add style to the calculator.JavaScript is used to add the calculation functionality.
+To design the basic calculator we have used HTML,CSS and JavaScrpit.Where the function of HTML is to form the basic structure of the calculator .CSS is used to add style to the calculator and JavaScript is used to add the calculation functionality.
 
 # Features of this Calculator
 
