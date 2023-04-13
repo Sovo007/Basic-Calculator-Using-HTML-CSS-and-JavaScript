@@ -17,6 +17,4 @@ Knowledge of HTML, CSS and Javascript.
 * It will not display any result in case of invalid expression. For example, 5++9 will not display anything.
 * Clear screen feature to clear the display screen anytime you want.
 
-# Website for the basic calculator will look like the following  :
-![Screenshot 2023-04-12 160310](https://user-images.githubusercontent.com/122288168/231432531-3d847279-b21e-492b-945c-de2983b8b229.jpg)
 
